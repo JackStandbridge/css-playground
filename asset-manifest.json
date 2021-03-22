@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/css-playground/static/css/main.933000cd.chunk.css",
+    "main.js": "/css-playground/static/js/main.53e8e196.chunk.js",
+    "main.js.map": "/css-playground/static/js/main.53e8e196.chunk.js.map",
+    "runtime-main.js": "/css-playground/static/js/runtime-main.0a57c7af.js",
+    "runtime-main.js.map": "/css-playground/static/js/runtime-main.0a57c7af.js.map",
+    "static/js/2.b452c91c.chunk.js": "/css-playground/static/js/2.b452c91c.chunk.js",
+    "static/js/2.b452c91c.chunk.js.map": "/css-playground/static/js/2.b452c91c.chunk.js.map",
+    "index.html": "/css-playground/index.html",
+    "precache-manifest.6190324fa062f478d7870856788db86d.js": "/css-playground/precache-manifest.6190324fa062f478d7870856788db86d.js",
+    "service-worker.js": "/css-playground/service-worker.js",
+    "static/css/main.933000cd.chunk.css.map": "/css-playground/static/css/main.933000cd.chunk.css.map",
+    "static/js/2.b452c91c.chunk.js.LICENSE.txt": "/css-playground/static/js/2.b452c91c.chunk.js.LICENSE.txt",
+    "static/media/Tab.module.scss": "/css-playground/static/media/grid.8a2b2d7c.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a57c7af.js",
+    "static/js/2.b452c91c.chunk.js",
+    "static/css/main.933000cd.chunk.css",
+    "static/js/main.53e8e196.chunk.js"
+  ]
+}
